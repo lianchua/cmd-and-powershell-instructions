@@ -1,4 +1,6 @@
 # windows cmd&powershell命令大全
+---
+#### 测试环境：win10企业版1909
 1.无法启用移动热点（执行完需要重启）
 ```
 netsh winsock reset
